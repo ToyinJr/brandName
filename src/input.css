@@ -6,6 +6,6 @@ body, html {
     font-family: "Inter", sans-serif;
 }
 
-/* .ham:hover .dd {
+.ham:hover .dd {
     display: block;
-} */
+}
